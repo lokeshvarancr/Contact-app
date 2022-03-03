@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="sign_in">Sign in</string>
+    <string name="enter_your_email_id">Enter your Email Id</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="forgot_your_password">Forgot Your Password ?</string>
+    <string name="don_t_have_the_account">Don\'t have the account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_code">Enter your Code</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="secret_code">Secret Code</string>
+    <string name="by_clicking_the_quot_sign_up_quot_button_you_are_creating_an_account_and_you_agree_to_quot_terms_of_use_quot">By clicking the \"Sign Up\" button,you are creating an account,and you agree to \"Terms of use\"</string>
+    <string name="contact_form">Contact Form</string>
+    <string name="add_contacts">Add Contacts</string>
+    <string name="name">Name</string>
+    <string name="phone_no">Phone no</string>
+    <string name="contact_list">Contact List</string>
+    <string name="item">Item</string>
+    <string name="add_more">Add More</string>
+    <string name="add">add</string>
+</resources>
